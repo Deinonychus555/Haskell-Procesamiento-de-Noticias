@@ -18,4 +18,4 @@ Dado un grupo de noticias permite hacer las siguientes acciones:
 
 "8.- Buscar titulos por fecha."
 
-La práctica está valorada con un 10 aunque el algoritmo para agrupar noticias similares no es correcto. Dicho error queda subsanado en la versión del programa en Ruby.
+La práctica está valorada con un 10 aunque el algoritmo para agrupar noticias similares no es correcto. Dicho error queda subsanado en la versión del programa en Ruby (https://github.com/Deinonychus555/Ruby-Procesamiento-de-Noticias).
